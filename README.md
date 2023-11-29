@@ -1,1 +1,2 @@
-# parallel_computing_lab3_nbody
+# NBodyProblem-OpenSHMEM
+
